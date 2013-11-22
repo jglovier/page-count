@@ -19,3 +19,4 @@ Since this is still something I'm working on, here's a list of references I'm us
 - http://net.tutsplus.com/tutorials/javascript-ajax/developing-google-chrome-extensions/
 - https://github.com/muan/pivotal-tweaker
 - https://github.com/muan/github-gmail
+- https://developer.chrome.com/extensions/history.html
