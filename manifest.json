@@ -19,8 +19,8 @@
   "options_page": "src/options/index.html",
   "browser_action": {
     "default_icon": {
-      "19": "icons/icon19.png",
-      "38": "icons/icon38.png"
+      "19": "images/icon19.png",
+      "38": "images/icon38.png"
     },
     "default_title": "Page Count | How many webpages have I viewed today?",
     "default_popup": "src/browser_action/popup.html"
