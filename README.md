@@ -12,6 +12,7 @@ Ever wondered how many total webpages you've visited on any given day? Page Coun
 ### Resources for development
 
 Since this is still something I'm working on, here's a list of references I'm using as I build:
+- https://developer.chrome.com/extensions/api_index.html
 - http://extensionizr.com/
 - http://developer.chrome.com/extensions/browserAction.html
 - http://www.sitepoint.com/build-your-own-chrome-extension-a-google-documents-word-count-tool/
